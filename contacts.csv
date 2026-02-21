@@ -1,0 +1,4 @@
+NAME,       PHONE,        EMAIL,              DOB
+Alice,      +1234567890,  alice@example.com,  1990-02-20
+Bob,        +0987654321,  bob@example.com,    1985-07-15
+Charlie,    +1122334455,  charlie@example.com,1995-12-01
